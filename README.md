@@ -1,5 +1,7 @@
 # Motioneye Docker
 
+A fork modified to use resin.io os.
+
 A surveillance solution base on
 [MotionEye](https://github.com/ccrisan/motioneye)
 [Motion](https://github.com/Mr-Dave/motion) and Docker.
